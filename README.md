@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my Github👋
 
 <!--
 **marcelosevergnini/marcelosevergnini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +20,10 @@ Here are some ideas to get you started:
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosevergnini&hide=html&layout=compact&theme=dark" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=marcelosevergnini&theme=dark"/></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=marcelosevergnini&theme=dark"/></td>
     </tr>   
 </table>
 </center>  
+
+![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=marcelosevergnini&show_icons=true&theme=dark)
 
 
