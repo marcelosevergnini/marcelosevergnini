@@ -1,8 +1,7 @@
 <p align="center">
     <img width="100px" src="https://maxcdn.icons8.com/Share/icon/nolan/Programming/source_code1600.png" align="center" alt="GitHub Readme Stats" />
     <h1 align="center">Hi there 👋 </h2>
-    <h2 align="center">GitHub Readme Stats</h2>
-    <p align="center">Welcome to my Github</p>
+    <h1 align="center">Welcome to my Github</h2>
 </p>
 
 <!--
