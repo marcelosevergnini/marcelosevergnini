@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 </table>
 </center>  
 
-![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=marcelosevergnini&show_icons=true&theme=dark)
 
-
+![](https://komarev.com/ghpvc/?username=marcelosevergnini&color=blue&style=flat)
