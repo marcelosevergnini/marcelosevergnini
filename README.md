@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Marcelo's github stats](https://github-readme-stats.vercel.app/api?username=marcelosevergnini&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosevergnini&layout=compact)](https://github.com/marcelosevergnini/github-readme-stats)
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosevergnini&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=marcelosevergnini&theme=dark"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=marcelosevergnini&theme=dark"/></td>
+    </tr>   
+</table>
+</center>  
 
-![](https://komarev.com/ghpvc/?username=marcelosevergnini&color=blue&style=flat
 
-<a href="https://github.com/marcelosevergnini/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelosevergnini&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/marcelosevergnini/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=marcelosevergnini&repo=convoychat" />
-</a>
